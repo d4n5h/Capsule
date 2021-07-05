@@ -1,0 +1,2 @@
+# Capsule
+ Simple dependency injection
