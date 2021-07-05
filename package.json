@@ -1,0 +1,29 @@
+{
+  "name": "@danisl99/capsule",
+  "version": "1.0.0",
+  "description": "Simple dependency injection based on Pimple",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4n5h/Capsule.git"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "pimple",
+    "simple",
+    "capsule"
+  ],
+  "author": "Daniel Shlomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d4n5h/Capsule/issues"
+  },
+  "homepage": "https://github.com/d4n5h/Capsule#readme"
+}
